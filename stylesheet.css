@@ -1,0 +1,85 @@
+body {
+    background-image: url('file:///C:/Users/DELL/Desktop/webpage/bg.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form {
+    margin-top: 25px;
+    padding-left: 20px;
+}
+
+.formstyle {
+    width: 357px;
+    height: 580px;
+    margin: 30px;
+    background-color: white;
+    border-radius: 1.5rem;
+    text-align: center;
+}
+
+.head {
+    padding-top: 57px;
+    padding-bottom: 20px;
+    color: rgb(49 74 213);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.instyle {
+    width: 75%;
+    height: 45px;
+    border-color: #7bb6fb !important;
+    border-radius: 2rem;
+    text-align: center;
+    color: #7bb6fb;
+    
+}
+.mailstyle{
+    background: url('file:///C:/Users/DELL/Desktop/webpage/email.svg');
+    background-repeat: no-repeat;
+    padding: 20px;
+    background-position: left;
+    background-size: 25px;
+    background-origin: content-box;
+}
+.passwordstyle{
+    background: url('file:///C:/Users/DELL/Desktop/webpage/password%20lock.svg');
+    background-repeat: no-repeat;
+    padding: 20px;
+    background-position: left;
+    background-size: 25px;
+    background-origin: content-box; 
+}
+::placeholder {
+    color: #7bb6fb;
+    font-family: serif;
+    font-size: 16px;
+}
+
+.status{
+    text-align: left; padding-left: 4px;
+}
+.text{
+    font-size: 15px;
+    font-family: serif;
+    color: #ab9aed;
+    font-weight: 600;
+}
+.btntype{
+    width: 75%;
+    height: 45px;
+    background-color: #928bdd;
+    border-radius: 2rem;
+    color: white;
+    font-size: 21px;
+    font-weight: 600;
+    padding-top: 5px;
+}
+.check{
+    font-size: 14px;
+    font-family: serif;
+    font-weight: 600;
+    color: #8ea7c5;
+}                                                                             
